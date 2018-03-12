@@ -1,0 +1,9 @@
+package com.alight.idis._7629;
+
+import java.lang.Number;
+
+rule "Gender"
+	dialect "mvel"
+	when
+	then
+end
